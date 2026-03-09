@@ -17,7 +17,7 @@ Website penyewaan lahan parkir dengan integrasi Google Sheets & Google Drive.
 | Metode | Detail |
 |--------|--------|
 | **BCA** | 4380082794 a.n Agung Wicaksono |
-| **DANA** | 08568999001 |
+| **DANA** | 08568xxxx1 |
 | **QRIS** | Hubungi Admin |
 
 ## 📋 Setup Google Sheets
@@ -69,4 +69,4 @@ Jalankan fungsi `initializeSystem()` di Google Apps Script untuk membuat sheet-s
 
 ## 📝 License
 
-© 2024 Pradha Ciganitri Parking
+© 2026 Pradha Ciganitri Parking
